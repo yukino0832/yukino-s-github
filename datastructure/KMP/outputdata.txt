@@ -1,0 +1,12 @@
+以下为本次病毒检测结果：
+YES  baa   bbaabbba
+YES  baa   aaabbbba
+YES  aabb   abceaabb
+YES  aabb   abaabcea
+YES  abcd   cdabbbab
+NO   abcd   cabbbbab
+NO   abcde   bcdedbda
+NO   acc   bdedbcda
+YES  cde   cdcdcdec
+YES  cced   cdccdcce
+NO   bcd   aabccdxdxbxa
